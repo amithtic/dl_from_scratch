@@ -8,3 +8,5 @@ for i in range(len(inputs)):
     output = output + (inputs[i] * weights[i])
     
 print(output)
+
+Edited by Amit NOde in a copied (forked) repo.
